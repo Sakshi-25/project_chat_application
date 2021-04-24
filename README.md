@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-### [Live Site](tinyurl.com/gossip-chat-app)
+### Live Site: tinyurl.com/gossip-chat-app
 
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
