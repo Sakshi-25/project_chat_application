@@ -9,8 +9,8 @@ export default function SignIn() {
 
   return ( 
     <div className="joinOuterContainer">
+      <img className="logoStyle" src="https://github.com/Sakshi-25/project_chat_application/blob/master/client/src/components/Join/gossip.png?raw=true"></img>
       <div className="joinInnerContainer">
-        <img src="./gossip.png"></img>
         <h1 className="heading">Start/Join Gossip</h1>
         <div>
           <input placeholder="Name" className="joinInput" type="text" onChange={(event) => setName(event.target.value)} />

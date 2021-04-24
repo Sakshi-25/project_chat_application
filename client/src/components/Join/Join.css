@@ -71,3 +71,14 @@ html, body {
 button:focus {
   outline: 0;
 }
+
+.logoStyle{
+  width: 20%;
+  margin-right: 10%;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .logoStyle{
+    display: none;
+  }
+}

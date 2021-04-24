@@ -55,6 +55,7 @@ const Chat = ({ location }) => {
 
   return (
     <div className="outerContainer">
+       <img className="logoBigStyle" src="https://github.com/Sakshi-25/project_chat_application/blob/master/client/src/icons/gossip2.png?raw=true" ></img>
       <div className="container">
           <InfoBar room={room} />
           <Messages messages={messages} name={name} />
