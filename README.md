@@ -2,7 +2,12 @@
 
 ### Live Site: tinyurl.com/gossip-chat-app
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+![image](https://user-images.githubusercontent.com/49511150/115971730-c75e6980-a567-11eb-9638-8a78cdaf7cd8.png)
+
+## RealTime Chat
+![Screenshot (1674)](https://user-images.githubusercontent.com/49511150/115971843-713df600-a568-11eb-9475-05fcef6b430f.png)
+
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
