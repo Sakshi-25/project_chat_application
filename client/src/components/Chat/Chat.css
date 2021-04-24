@@ -35,16 +35,17 @@
 
 .logoBigStyle{
   position: fixed;
-	top:0; 
-	left:0;
-  width: 10%;
+top: 15px;
+left: 59%;
+width: 26%;
 }
+
 
 @media (min-width: 480px) and (max-width: 1200px) {
   .logoBigStyle{
-  position: fixed;
-	top:0; 
-	left:0;
-  width: 0px;
+    position: fixed;
+    top:0; 
+    left:0;
+    width: 20%;
   }
 }

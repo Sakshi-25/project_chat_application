@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #5CDB94;
+  background: #55d197;
   border-radius: 4px 4px 0 0;
   height: 60px;
   width: 100%;
@@ -14,7 +14,6 @@
   align-items: center;
   margin-left: 10%;
   color: white;
-  flex-wrap: wrap;
   flex-direction: row;
 }
 
