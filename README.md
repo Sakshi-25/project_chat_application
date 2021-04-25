@@ -6,6 +6,8 @@
 
 An application that runs on the client side (hosted on Netlify) and accesses the remote server (hosted on Heroku) for information is called ***a client/server application***.
 
+<img src="https://user-images.githubusercontent.com/49511150/116006962-1f11d900-a62b-11eb-998a-7459f3a993b8.png" width="200" />
+
 ## AIM
 Use Cloud Services to build and deploy an application.
 
