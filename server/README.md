@@ -9,6 +9,7 @@ Heroku charges customers monthly depending on the number of virtual computers th
 - Simple – Heroku is preferred by users around the world for its simplicity, which makes it an easy-to-use platform. It offers a simple interface and easy one-click deployments. Releasing new software versions is also quite convenient using Heroku. 
 - Secure – Heroku makes your applications secure at all times and reduces the need for repetitive security patching. It ensures complete security for your assets regardless of how complex your requirements are.
 
+## Server Deployment
 ![image](https://user-images.githubusercontent.com/49511150/116004182-364ac980-a61f-11eb-81ad-82d9bbbbf750.png)
 
 ![image](https://user-images.githubusercontent.com/49511150/116004224-61351d80-a61f-11eb-8668-28784bcb4a67.png)
@@ -17,3 +18,6 @@ Heroku charges customers monthly depending on the number of virtual computers th
 ![image](https://user-images.githubusercontent.com/49511150/116004238-7316c080-a61f-11eb-92c1-b96924e4cee9.png)
 
 ![Heroku builds](https://user-images.githubusercontent.com/49511150/116004408-3a2b1b80-a620-11eb-97d0-f0e319d2fa8d.PNG)
+
+## Working of server
+![image](https://user-images.githubusercontent.com/49511150/116006925-e83bc300-a62a-11eb-9d02-3cea51ad0ee5.png)
