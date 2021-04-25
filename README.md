@@ -1,4 +1,7 @@
 # Gossip - a Realtime Chat Application
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d1cf43f-68d5-4fe4-b420-dedf30b4c2b9/deploy-status)](https://app.netlify.com/sites/gossip-chat-app/deploys)
+
 #### Website: tinyurl.com/gossip-chat-app
 
 An application that runs on the client side (hosted on Netlify) and accesses the remote server (hosted on Heroku) for information is called ***a client/server application***.
@@ -7,6 +10,8 @@ An application that runs on the client side (hosted on Netlify) and accesses the
 Use Cloud Services to build and deploy an application.
 
 ## Tech Stacks Used:
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 - [React.js](https://reactjs.org/) :
 > a JavaScript library for building interactive UI.It is component-based library & allows us to create reusable UI components that manage states & props, then compose them to make complex UIs.
 - [Node.js](https://nodejs.org/) :
@@ -41,6 +46,18 @@ Use Cloud Services to build and deploy an application.
 ![Screenshot (1674)](https://user-images.githubusercontent.com/49511150/115971843-713df600-a568-11eb-9475-05fcef6b430f.png)
 
 # Hosting
+##### Server on Heroku 
+##### Client on Netlify
 
-## Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d1cf43f-68d5-4fe4-b420-dedf30b4c2b9/deploy-status)](https://app.netlify.com/sites/gossip-chat-app/deploys)
+| | Netlify  | Heroku |
+|----------------|-------------------------------|-----------------------------|
+| Description  | Deploy modern website with one click.  | Build, run, and operate applications entirely in the cloud. |
+| Parent Company  | Independent  | SalesForce |
+| Flexibility  | Low  | High |
+| Price  | Fixed Price | Pay by the Usage |
+| Scalability  | Scalable  | Scalable |
+| Ideal for  | Modern web projects automation  | Creating entire applications (including database) on a cloud environment |
+| Continuous Integration |  Out of the box  | Option to turn it on |
+| Developer Focus  | Frontend  | Backend |
+| Type of Project  | Web  | Mobile and Web |
+| Remarks  | No sleeping apps  | Sleeping apps |
