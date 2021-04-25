@@ -1,68 +1,58 @@
+# Client
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
+Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits. You will also see any lint errors in the console.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### `npm run build`
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+The build is minified and the filenames include the hashes. Your app is ready to be deployed!
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
+#### `npm run eject`
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Hosting
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Netifly** is a platform that offers cloud hosting and serverless backend services for static websites. Read more [here](https://www.netlify.com/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+> #### Reasons for choosing Netlify
+<details><summary>Here</summary>
+<p>
+1. It is free  
+It offers massive features on its free plan and as a matter of fact, almost all features are available on the free plan.
+2. Easy to use  
+The Netlify User Interface is perhaps one the of the easiest to understand and be able to find your way around without needing to Google a lot of “How to “ or spending time reading the docs. 
+3. Deploy in seconds  
+Deploying projects on Netlify are not just easy, but pretty fast too. You have the option to deploy from a Git repository or just by simply dragging your project folder and dropping it. Netlify takes care of everything else from there on. It identifies build commands (if any) and with just a click your project will be live in a few seconds
+4. Continuous Deployment (CD)  
+Anytime you deploy your project from a Git repo, Netlify automatically activates CD for you. With that, whenever you make a new commit and push to your repo, Netlify builds it for you and automatically updates your project to the most recent version. All this is achieved without having to create a configuration file and writing a long list of rules.
+5. Branch Deploys  
+You could easily choose any branch of your Git project and deploy just that branch. This comes in handy when testing new features that may or may not make it to the master branch or just a quick way to easily see how a PR would affect your site.
+6. Free Private Repo Hosting  
+If you have a private repo, you could easily still get it online and keep your codebase private without having to pay for anything. 
+7. Deploy Previews  
+Netlify gives you the ability to preview every deploy you make or want to make, This will allow you and your team to see what changes will look like in production, without having to deploy them in your existing site.
+8. Asset Optimization  
+Netlify gives you the ability to automatically optimize assets for your project. Available options like CSS and JS minification, image compression, and pretty URLs allow you to improve the performance of your sites with just a few clicks.
+9. Free SSL  
+Netlify adds security to your site with its Free SSL option with Let’s Encrypt. With one click install, HTTPS will instantly be available for your sites.
+10. Rewrites and Redirects  
+This gives you the ability to easily perform redirects and control certain actions on your website. 
+11. Custom Subdomains  
+By default, Netlify gives you a free custom subdomain whenever you create a new project (something like_mywebsite.netlify.com_), but they also give you the ability to use a custom domain name which you own and by simply updating your DNS records, your Netlify site will have it’s own domain.
+12. Free DNS  
+Netlify gives you the option of DNS Management absolutely free.
+</p>
+</details> 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://user-images.githubusercontent.com/49511150/116005864-7792a780-a626-11eb-886c-2dd78f4e782f.png)
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Deploys
+![image](https://user-images.githubusercontent.com/49511150/116005995-ff78b180-a626-11eb-9512-8a4417225493.png)
